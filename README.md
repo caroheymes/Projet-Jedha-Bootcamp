@@ -1,4 +1,4 @@
-# Projet-Jedha-Bootcamp
+# Projet Jedha Bootcamp
 ## Data Visualisation 
 
 Description du challenge
