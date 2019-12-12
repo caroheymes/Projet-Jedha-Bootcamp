@@ -5,7 +5,15 @@ Description du challenge
 
 Nous allons commencer un nouveau projet de data visualisation et d'exploration. Notre but va être d'essayer de comprendre l'amour ! C'est un sujet bien compliqué alors nous l'avons simplifié. Notre but va être plutôt de comprendre ce qu'il se passe durant un speed dating et surtout de comprendre ce qui va influence un deuxième date ! 
 
-Dataset: https://www.kaggle.com/annavictoria/speed-dating-experiment#Speed%20Dating%20Data%20Key.doc
+Dataset : https://www.kaggle.com/annavictoria/speed-dating-experiment#Speed%20Dating%20Data%20Key.doc
+
+## Machine Learning Supervisé
+
+Description du challenge 
+
+Optimiser des taux de conversion est une des tâches les plus importantes d'un data scientist. C'est pourquoi, nous allons construire un modèle qui va prédire le taux de conversion de clients sur un site web et faire des recommendations à notre équipe marketing pour pouvoir augmenter notre revenu ! 
+
+Dataset : https://github.com/Saadorj/DataScienceProjects/blob/master/conversion_rate/conversion_data.csv
 
 ## Machine Learning Non Supervisé 
 
