@@ -19,6 +19,6 @@ Dataset : https://github.com/Saadorj/DataScienceProjects/blob/master/conversion_
 
 Description du challenge
 
-Dans ce projet, nous allons nous rendre compte du pouvoir des KMeans et DBSCAN dans le monde actuel. Imaginez que nous sommes Uber et que nous souhaitons donner des recommendations quant aux endroits où les chauffeurs devraient se trouver pour maximiser leurs chances de trouver une course ! 
+Dans ce projet, nous allons nous rendre compte du pouvoir des KMeans et DBSCAN dans le monde actuel. Nous allons imaginer que nous sommes Uber et que nous souhaitons donner des recommendations quant aux endroits où les chauffeurs devraient se trouver pour maximiser leurs chances de trouver une course ! 
 
 Dataset : https://github.com/fivethirtyeight/uber-tlc-foil-response/blob/master/uber-trip-data/uber-raw-data-aug14.csv
