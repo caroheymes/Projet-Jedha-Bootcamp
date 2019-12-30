@@ -4,7 +4,7 @@
 
 Description du challenge
 
-Voici mon premier projet Data Science ! Notre but va être d'essayer de détecter la fraude dans l'assurance. On se concentre sur la fraude des assurés après un accident de voiture. Nous nettoyons la base, réalisation les visualusations sur Tableau, testons plusieurs modèles de machine learning que nous comparerons selon le niveau d'accuracy, les matrices de confusions et ROC curves. 
+Voici mon premier projet Data Science ! Notre but va être d'essayer de détecter la fraude dans l'assurance. On se concentre sur la fraude des assurés après un accident de voiture. Nous nettoyons la base, réalisation les visualisations sur Tableau, testons plusieurs modèles de machine learning que nous comparerons selon le niveau d'accuracy, les matrices de confusions et ROC curves. 
 
 Dataset : https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/4954928053318020/1058911316420443/167703932442645/latest.html
 
